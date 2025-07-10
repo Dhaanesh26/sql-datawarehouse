@@ -1,6 +1,8 @@
 /*
 =====================================================================
 Stored procedure: Load bronze layer (Source -> Bronze)
+
+Objective: Bulk inserting data from CRM and ERP files
 =====================================================================
 */
 
