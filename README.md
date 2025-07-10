@@ -11,7 +11,7 @@ This project demonstrates how to build a full-stack SQL Data Warehouse using **S
 - **Database:** SQL Server
 - **ETL Tools:** SQL Server Integration Services (SSIS), T-SQL Scripts
 - **Data Modeling:** Star Schema, Snowflake Schema
-- **Analytics & Reporting:** SQL Queries, Power BI (optional)
+- **Analytics & Reporting:** SQL Queries, Power BI
 - **Version Control:** Git & GitHub
 
 ---
