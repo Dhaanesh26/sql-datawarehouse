@@ -1,5 +1,8 @@
 # 🗄️ Data Warehouse and Analytics Project
 
+<img width="1516" height="1134" alt="image" src="https://github.com/user-attachments/assets/dad0b823-95b7-44f7-920e-9fe23cc5c99d" />
+
+
 ## 📌 Project Overview
 
 This project demonstrates how to build a full-stack SQL Data Warehouse using **SQL Server**. It includes data ingestion through ETL processes, dimensional data modeling, and analytics-ready reporting layers. The pipeline transforms raw data into structured, meaningful insights for business intelligence and decision-making.
