@@ -4,7 +4,7 @@ DDL Script: This script creates tables in bronze schema
 =========================================================
 */
 
-
+ 
 CREATE TABLE bronze.crm_cust_info (
     cst_id INT,
     cst_key NVARCHAR(50),
