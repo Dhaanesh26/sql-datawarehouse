@@ -13,7 +13,7 @@ CREATE DATABASE DataWarehouse;
 USE DataWarehouse;
 
 -- create schema's for each layer of medellion database architecture
-CREATE SCHEMA bronze;
+CREATE SCHEMA bronze; 
 GO
 CREATE SCHEMA silver;
 GO
